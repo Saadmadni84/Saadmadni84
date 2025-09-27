@@ -126,7 +126,7 @@
 
 | 🔭 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
 |:---:|:---:|:---:|
-| **Acadevia Platform** | **Advanced React Patterns** | **Open Source Projects** |
+| **Acadevia Platform** | **Advanced Dsa problem** | **Open Source Projects** |
 | **Algorithm Solutions** | **System Design** | **EdTech Innovations** |
 | **Full Stack Apps** | **Cloud Technologies** | **Startup Ideas** |
 
