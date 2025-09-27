@@ -82,15 +82,22 @@
   <a href="https://leetcode.com/u/saadmadni/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116&color=FFEAA7" />
   </a>
+  <a href="https://www.linkedin.com/in/saad-madni-7228bb342" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/madni31234" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="mailto:saadmadni@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/saadmadni" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/saadmadni" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+</p>
+
+### 🔗 **Quick Links**
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/saad-madni-7228bb342">Professional Profile</a> • 
+  🐦 <a href="https://x.com/madni31234">Daily Updates</a> • 
+  🧠 <a href="https://leetcode.com/u/saadmadni/">Problem Solving</a>
 </p>
 
 ### 📊 **Profile Analytics**
@@ -110,6 +117,18 @@
 
 <div align="center">
 
+
+</div>
+
+## 📈 **What I'm Up To**
+
+<div align="center">
+
+| 🔭 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
+|:---:|:---:|:---:|
+| **Acadevia Platform** | **Advanced React Patterns** | **Open Source Projects** |
+| **Algorithm Solutions** | **System Design** | **EdTech Innovations** |
+| **Full Stack Apps** | **Cloud Technologies** | **Startup Ideas** |
 
 </div>
 
