@@ -131,8 +131,8 @@
 | 🔭 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
 |:---:|:---:|:---:|
 | **Acadevia Platform** | **Advanced Dsa problem** | **Open Source Projects** |
-| **Algorithm Solutions** | **Manpower Platform* | **EdTech Innovations** |
-| **Full Stack Apps** | **Cloud Technologies** | **Startup Ideas** |
+| **Algorithm Solutions** | **System Design* | **EdTech Innovations** |
+| **Manpower project** | **Cloud Technologies** | **Startup Ideas** |
 
 </div>
 
