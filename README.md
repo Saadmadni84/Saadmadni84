@@ -6,39 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+B.Tech+(CSAIML);Building+the+Future+with+Code+%F0%9F%9A%80;Welcome+to+My+Digital+Universe+%F0%9F%8C%8C" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Tech Arsenal**
 
 <div align="center">
 
-### 🎯 **Core Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs,nextjs,express,mongodb,mysql,git,github,vscode,docker&perline=8" />
 </p>
 
-### ⚡ **Frameworks & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,mysql,git,github,vscode,docker&perline=8" />
-</p>
-
-### 🎨 **Design & Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,linux,aws,firebase,tailwind,bootstrap,sass&perline=8" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
@@ -53,15 +30,7 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadmadni84&background=0d1117&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saadmadni84&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Saadmadni84&theme=dark&background=0d1117&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9&hide_border=true" />
 </div>
 
 ---
@@ -73,61 +42,33 @@
 ### 🏥 **SwasthAI** - AI-Powered Healthcare Platform
 [![SwasthAI](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Swasth-AI&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Swasth-AI)
 
-**Revolutionary healthcare platform transforming rural healthcare access through AI**
-- 🤖 AI-powered multilingual health assistant supporting native Indian languages
-- 🩺 Intelligent doctor discovery & appointment booking system
-- 🗺️ Real-time healthcare facility locator with Google Maps integration
-- 📊 Interactive health insights dashboard with urban-rural analytics
-- 🔐 Secure family health vault with document management
-- ⚡ Built with Next.js, TypeScript, Flask, TailwindCSS & AI/ML models
+�� AI-powered multilingual health assistant • 🩺 Doctor discovery & booking • 🗺️ Healthcare facility locator • 📊 Health insights dashboard
 
 ---
 
-### 🎓 **Acadevia** - Educational Technology Platform
+### 🎓 **Acadevia** - Educational Platform
 [![Acadevia](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Acadevia&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Acadevia)
 
-**Comprehensive EdTech solution for modern learning needs**
-- 📚 Advanced course management & enrollment system
-- 💳 Integrated payment gateway (Razorpay)
-- 📧 Real-time notifications via email & SMS (Twilio)
-- 🎨 Beautiful UI with Tailwind CSS & Material-UI
-- 🔒 Secure authentication with NextAuth & Redis caching
+📚 Course management • 💳 Payment integration • 📧 Real-time notifications • 🔒 Secure authentication
 
 ---
 
-### 🎓 **Acadevia-2** - Enhanced Learning Platform
-[![Acadevia-2](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Acadevia-2&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Acadevia-2)
-
-**Next-generation EdTech platform with advanced features**
-- 🚀 Improved performance & scalability
-- 🎯 Interactive learning modules
-- 📱 Mobile-responsive design
-- 🔄 Real-time updates & notifications
-
----
-
-### 💼 **Manpower** - Workforce Management Solution
+### 💼 **Manpower** - Workforce Management
 [![Manpower](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Manpower-&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Manpower-)
 
-**Streamlined workforce management & recruitment platform**
-- 👥 Employee management & tracking
-- 📊 Analytics & reporting dashboard
-- 🔍 Advanced job matching algorithms
-- 📝 Resume parsing & candidate screening
+👥 Employee management • 📊 Analytics dashboard • 🔍 Job matching • 📝 Resume parsing
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> **Connect & Collaborate**
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> **Connect With Me**
 
 <div align="center">
 
-### 🌟 **Let's Build Something Amazing Together!**
-
 <p>
   <a href="https://leetcode.com/u/saadmadni/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116&color=FFEAA7" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/saad-madni-7228bb342" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -135,22 +76,10 @@
   <a href="https://x.com/madni31234" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:saadmadni@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://www.youtube.com/@saadmadni3603a" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
-### 🔗 **Quick Links**
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/saad-madni-7228bb342">Professional Profile</a> •
-  📺 <a href="https://www.youtube.com/@saadmadni3603a">YouTube Channel (40K+)</a>
-</p>
-<p align="center">
-  🐦 <a href="https://x.com/madni31234">Daily Updates</a> • 
-  🧠 <a href="https://leetcode.com/u/saadmadni/">Problem Solving</a>
-</p>
-
-### 📊 **Profile Analytics**
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Saadmadni84&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
@@ -159,35 +88,16 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
-
 ---
 
 ## 🎯 **Current Focus**
 
 <div align="center">
 
-🔭 Building innovative healthcare & EdTech solutions  
+🔭 Building AI-powered healthcare & EdTech solutions  
 🌱 Mastering advanced algorithms & system design  
-🤝 Open to collaborating on impactful open-source projects  
+🤝 Open to collaborating on impactful projects  
 💡 Exploring AI/ML applications in real-world problems  
-
-</div>
-
----
-
-## 📈 **What I'm Up To**
-
-<div align="center">
-
-| 🔭 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
-|:---:|:---:|:---:|
-| **SwasthAI - AI Healthcare** | **Advanced DSA Problems** | **Open Source Projects** |
-| **Acadevia Platform** | **System Design** | **Healthcare Tech** |
-| **Algorithm Solutions** | **Cloud Technologies** | **EdTech Innovations** |
-| **Manpower Project** | **AI/ML Integration** | **Startup Ideas** |
 
 </div>
 
