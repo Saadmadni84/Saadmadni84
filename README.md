@@ -36,6 +36,15 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadmadni84&bg_color=0d1117&color=36BCF7&line=36BCF7&point=c9d1d9&area=true&hide_border=true" />
+</div>
+
+
+---
+
 ## 🌍 Open Source & Industry Contributions
 
 I actively contribute to **production-grade, large-scale codebases** used by real organizations.
