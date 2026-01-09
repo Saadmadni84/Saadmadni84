@@ -125,7 +125,3 @@ job matching, and resume parsing pipelines.
 ---
 
 > “I don’t just build projects — I contribute to systems that scale, evolve, and serve real users.”
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-</div>
