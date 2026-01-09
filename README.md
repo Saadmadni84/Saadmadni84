@@ -32,16 +32,6 @@
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Saadmadni84&theme=dark&background=0d1117&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9&hide_border=true" />
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadmadni84&bg_color=0d1117&color=36BCF7&line=36BCF7&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
-
 ---
 
 ## 🌍 Open Source & Industry Contributions
