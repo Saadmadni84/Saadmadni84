@@ -3,30 +3,31 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+B.Tech+(CSAIML);Building+the+Future+with+Code+%F0%9F%9A%80;Welcome+to+My+Digital+Universe+%F0%9F%8C%8C" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Full+Stack+Engineer+%7C+B.Tech+(CS+AI+%26+ML);System+Design+%7C+Agentic+AI+%7C+Open+Source+Contributor;Building+Scalable+Systems+That+Impact+Millions" />
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Tech Arsenal**
+## ⚙️ Engineering Stack & Expertise
 
 <div align="center">
-
-<p>
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,nodejs,nextjs,express,mongodb,mysql,git,github,vscode,docker&perline=8" />
-</p>
-
 </div>
+
+### 🧠 Core Engineering Skills
+- **System Design**: Low-level & high-level design, scalability, trade-offs, API design
+- **Agentic AI**: Multi-step reasoning agents, tool-calling workflows, AI-driven automation
+- **Backend Engineering**: REST APIs, authentication, RBAC, performance optimization
+- **Databases**: Schema design, indexing, query optimization (MySQL, MongoDB)
+- **DevOps Basics**: Dockerized services, CI/CD familiarity, GitHub Actions
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30"> **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Saadmadni84&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadmadni84&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
-  
 </div>
 
 <div align="center">
@@ -35,40 +36,77 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Featured Projects**
+## 🌍 Open Source & Industry Contributions
+
+I actively contribute to **production-grade, large-scale codebases** used by real organizations.
+
+### 🏢 Organizations & Projects
+- Contributing to **enterprise-level distributed systems**
+- Working on **UI, backend, and reliability improvements**
+- Collaborating with global maintainers through structured PR reviews
+
+### 🛠 Contribution Highlights
+- Improved error handling, logging, and system stability
+- UI enhancements for better observability and user experience
+- CI-validated PRs with clean commits and issue references
+- Experience with **Apache-style contribution workflows**
+
+📌 All contributions follow professional open-source standards:
+- Issue-linked pull requests  
+- Clear commit history  
+- Screenshots, tests, and documentation where required  
+
+> **Goal:** Long-term open-source impact through GSoC / GSSoC and beyond.
+
+---
+
+## 🚀 Featured Projects
+
+> These projects reflect my focus on **scalable architectures, real users, and production readiness**.
 
 <div align="center">
 
-### 🏥 **SwasthAI** - AI-Powered Healthcare Platform
+### 🏥 SwasthAI — AI-Powered Healthcare Platform
 [![SwasthAI](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Swasth-AI&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Swasth-AI)
 
-�� AI-powered multilingual health assistant • 🩺 Doctor discovery & booking • 🗺️ Healthcare facility locator • 📊 Health insights dashboard
+AI-driven multilingual health assistant with **modular backend architecture**,  
+secure authentication, doctor discovery, and analytics dashboards.
 
 ---
 
-### 🎓 **Acadevia** - Educational Platform
+### 🎓 Acadevia — Educational Platform
 [![Acadevia](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Acadevia&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Acadevia)
 
-📚 Course management • 💳 Payment integration • 📧 Real-time notifications • 🔒 Secure authentication
+Scalable EdTech platform with course management, payments,  
+real-time notifications, and secure role-based access control.
 
 ---
 
-### 💼 **Manpower** - Workforce Management
+### 💼 Manpower — Workforce Management System
 [![Manpower](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Manpower-&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Manpower-)
 
-👥 Employee management • 📊 Analytics dashboard • 🔍 Job matching • 📝 Resume parsing
+End-to-end workforce solution featuring employee analytics,  
+job matching, and resume parsing pipelines.
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"> **Connect With Me**
+## 🎯 Current Engineering Focus
+
+🔭 Designing **scalable backend systems** and distributed architectures  
+🧠 Building **Agentic AI workflows** for real-world automation  
+🧪 Deepening expertise in **DSA, System Design, and performance tuning**  
+🤝 Actively contributing to **open-source organizations & industry projects**  
+🎓 Preparing for **GSoC / GSSoC / Product-based engineering roles**
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-
-<p>
   <a href="https://leetcode.com/u/saadmadni/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/saad-madni-7228bb342" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -79,32 +117,17 @@
   <a href="https://www.youtube.com/@saadmadni3603a" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Saadmadni84&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Saadmadni84?label=Followers&style=for-the-badge&color=36BCF7" alt="followers" />
-</p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saadmadni84&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Saadmadni84?label=Followers&style=for-the-badge&color=36BCF7" />
 </div>
 
 ---
 
-## 🎯 **Current Focus**
-
-<div align="center">
-
-🔭 Building AI-powered healthcare & EdTech solutions  
-🌱 Mastering advanced algorithms & system design  
-🤝 Open to collaborating on impactful projects  
-💡 Exploring AI/ML applications in real-world problems  
-
-</div>
+> “I don’t just build projects — I contribute to systems that scale, evolve, and serve real users.”
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+%E2%9C%A8;Let's+code+the+future+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%AB" alt="Footer Typing" />
 </div>
