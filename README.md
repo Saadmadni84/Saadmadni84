@@ -3,7 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Full+Stack+Engineer+%7C+B.Tech+(CS+AI+%26+ML);System+Design+%7C+Agentic+AI+%7C+Open+Source+Contributor;Building+Scalable+Systems+That+Impact+Millions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Full+Stack+Engineer+%7C+B.Tech+(CS+AI+%26+ML);System+Design+%7C+Backend+Engineering;Building+Scalable+Systems+That+Impact+Millions" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆_Selected_Participant-Amazon_ML_Summer_School_2026-FF9900?style=for-the-badge" />
 </div>
 
 ---
@@ -16,10 +20,25 @@
 
 ### 🧠 Core Engineering Skills
 - **System Design**: Low-level & high-level design, scalability, trade-offs, API design
-- **Agentic AI**: Multi-step reasoning agents, tool-calling workflows, AI-driven automation
 - **Backend Engineering**: REST APIs, authentication, RBAC, performance optimization
-- **Databases**: Schema design, indexing, query optimization (MySQL, MongoDB)
-- **DevOps Basics**: Dockerized services, CI/CD familiarity, GitHub Actions
+- **Caching**: Redis-based performance optimization
+- **Databases**: Schema design, indexing, query optimization (MySQL, PostgreSQL, MongoDB)
+- **DevOps Basics**: Dockerized services, Kubernetes, CI/CD, GitHub Actions
+
+---
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|---|---|
+| **Codeforces** | Global Rank ~17 / 39,000+ |
+| **CodeChef** | 6★ (Division 1, Rating 2266) |
+| **Hackathon** | Finalist, DecodeX |
+| **Certification** | NVIDIA Edge AI |
+
+</div>
 
 ---
 
@@ -32,59 +51,36 @@
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Saadmadni84&theme=dark&background=0d1117&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9&hide_border=true" />
 </div>
----
-
-## 🌍 Open Source & Industry Contributions
-
-I actively contribute to **production-grade, large-scale codebases** used by real organizations.
-
-### 🏢 Organizations & Projects
-- Contributing to **enterprise-level distributed systems**
-- Working on **UI, backend, and reliability improvements**
-- Collaborating with global maintainers through structured PR reviews
-
-### 🛠 Contribution Highlights
-- Improved error handling, logging, and system stability
-- UI enhancements for better observability and user experience
-- CI-validated PRs with clean commits and issue references
-- Experience with **Apache-style contribution workflows**
-
-📌 All contributions follow professional open-source standards:
-- Issue-linked pull requests  
-- Clear commit history  
-- Screenshots, tests, and documentation where required  
-
-> **Goal:** Long-term open-source impact through GSoC / GSSoC and beyond.
 
 ---
 
 ## 🚀 Featured Projects
 
-> These projects reflect my focus on **scalable architectures, real users, and production readiness**.
+> These projects reflect my focus on **scalable architectures and production-ready design**.
 
 <div align="center">
 
-### 🏥 SwasthAI — AI-Powered Healthcare Platform
+### 🏥 SwasthAI — Microservices Medical Data Platform
 [![SwasthAI](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Swasth-AI&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Swasth-AI)
 
-AI-driven multilingual health assistant with **modular backend architecture**,  
-secure authentication, doctor discovery, and analytics dashboards.
+6-service microservices platform built with Kafka, Redis, PostgreSQL, Docker,
+and Kubernetes, featuring a real-time anomaly detection pipeline for health data.
 
 ---
 
 ### 🎓 Acadevia — Educational Platform
 [![Acadevia](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Acadevia&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Acadevia)
 
-Scalable EdTech platform with course management, payments,  
-real-time notifications, and secure role-based access control.
+EdTech platform with course management, payments, real-time notifications,
+and role-based access control.
 
 ---
 
 ### 💼 Manpower — Workforce Management System
 [![Manpower](https://github-readme-stats.vercel.app/api/pin/?username=Saadmadni84&repo=Manpower-&border_color=36BCF7&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7)](https://github.com/Saadmadni84/Manpower-)
 
-End-to-end workforce solution featuring employee analytics,  
-job matching, and resume parsing pipelines.
+Workforce solution featuring employee analytics, job matching,
+and resume parsing pipelines.
 
 </div>
 
@@ -93,10 +89,9 @@ job matching, and resume parsing pipelines.
 ## 🎯 Current Engineering Focus
 
 🔭 Designing **scalable backend systems** and distributed architectures  
-🧠 Building **Agentic AI workflows** for real-world automation  
+📚 Selected for **Amazon ML Summer School 2026**  
 🧪 Deepening expertise in **DSA, System Design, and performance tuning**  
-🤝 Actively contributing to **open-source organizations & industry projects**  
-🎓 Preparing for **GSoC / GSSoC / Product-based engineering roles**
+🎓 Actively applying for **SDE / backend engineering roles**
 
 ---
 
@@ -124,4 +119,4 @@ job matching, and resume parsing pipelines.
 
 ---
 
-> “I don’t just build projects — I contribute to systems that scale, evolve, and serve real users.”
+> "I don't just build projects — I build systems designed to scale and serve real users."
