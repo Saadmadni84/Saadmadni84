@@ -92,10 +92,13 @@ job matching, and resume parsing pipelines.
 
 ## 🎯 Current Engineering Focus
 
-🔭 Designing scalable backend systems and distributed architectures
+🔭 Designing **scalable backend systems** and distributed architectures  
 📚 Selected for Amazon ML Summer School 2026
-🧪 Deepening expertise in DSA, System Design, and performance tuning
-🎓 Actively applying for SDE / backend engineering roles
+🧠 Building **Agentic AI workflows** for real-world automation  
+🧪 Deepening expertise in **DSA, System Design, and performance tuning**  
+🤝 Actively contributing to **open-source organizations & industry projects**  
+🎓 Preparing for **GSoC / GSSoC / Product-based engineering roles**
+
 ---
 
 ## 🤝 Connect With Me
